@@ -1,0 +1,101 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+}
+.container{
+    margin-top: 50px;
+    padding: 0%;
+    background-color: blanchedalmond;
+    width: 100%;height:90vh ;
+
+    position: relative;
+}
+.headingbox{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    height: 100px;
+    background-color: rgb(4, 68, 47);
+    position: absolute;
+}
+h1{
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    color: blanchedalmond;
+    top: 30px;
+    font-size:xx-large;
+
+}
+i{
+    color: blanchedalmond;
+    position: absolute;
+    padding: 17px;
+    margin-left: 20px;
+}
+
+.leftbox{
+    position: absolute;
+    width: 300px;
+    height: 450px;
+    background-color:rgb(56, 53, 53);
+    margin: 10%;
+    margin-top: 27%;
+    margin-left: 5%;
+    border-radius: 10%;
+
+}
+.rightbox1{
+    position: absolute;
+    width: 80vh;
+    height: 50px;
+    background-color: rgb(56, 53, 53);
+    margin-top: 60%;
+    margin-left: 440px;
+    border-radius: 10px;
+}
+.rightbox2{
+    position: absolute;
+    width: 30vh;
+    height: 175px;
+    background-color: rgb(56, 53, 53);
+    margin-top: 250px;
+    margin-left: 360px;
+    border-radius: 10%;
+
+}
+
+.rightbox2-1{
+    position: absolute;
+    width: 30vh;
+    height: 175px;
+    background-color: rgb(56, 53, 53);
+    margin-top: 250px;
+    margin-left: 610px;
+    border-radius: 10%;
+    padding: 5px;
+
+}
+.rightbox2-2{
+    position: absolute;
+    width: 30vh;
+    height: 175px;
+    background-color: rgb(56, 53, 53);
+    margin-top: 250px;
+    margin-left: 860px;
+    border-radius: 10%;
+    padding: 5px;
+
+}
+.rightbox3{
+    position: absolute;
+    width: 100vh;
+    height: 175px;
+    background-color: rgb(56, 53, 53);
+    margin-top: 450px;
+    margin-left: 375px;
+    border-radius: 20px;
+    
+}
